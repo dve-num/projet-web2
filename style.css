@@ -1,0 +1,20 @@
+h1 {
+font-size: 30px;
+text-align: center;
+color: #0A2CFC;
+}
+
+h2 {
+text-align: center;
+color: #1B9D2C;
+}
+
+body {
+font-size: 16px;
+font-family: Verdana, sans-serif;
+color: #464242;
+/*
+    background-image: url(images/brickwall.png);
+    filter : alpha (opacity=50)
+*/
+}
